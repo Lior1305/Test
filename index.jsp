@@ -4,7 +4,7 @@
     <title>My DevOps App</title>
 </head>
 <body>
-    <h2>Welcome to Myyy DevOps App</h2>
+    <h2>Welcome to My DevOps App</h2>
 
     <form method="GET"> <!-- Removed action -->
         Enter your name: <input type="text" name="username" />
