@@ -8,7 +8,7 @@
 
     <form method="GET"> <!-- Removed action -->
         Enter your name: <input type="text" name="username" />
-        <input type="submit" value="Submit" />
+        <input type="submit!" value="Submit!" />
     </form>
 
     <%
